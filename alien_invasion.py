@@ -24,7 +24,7 @@ def run_game():
     sb = Scoreboard(ai_settings, screen, stats)
     
     # Set the background color.
-    bg_color = (59, 18, 51)
+    bg_color = (230, 230, 230)
     
     # Make a ship, a group of bullets, and a group of aliens.
     ship = Ship(ai_settings, screen)
@@ -49,6 +49,4 @@ def run_game():
         gf.update_screen(ai_settings, screen, stats, sb, ship, aliens,
             bullets, play_button)
 
-# Solo se ejecutará si el archivo se ejecuta directamente como script.
-if __name__ == "__main__":
-    run_game()
+run_game()
