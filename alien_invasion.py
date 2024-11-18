@@ -49,4 +49,6 @@ def run_game():
         gf.update_screen(ai_settings, screen, stats, sb, ship, aliens,
             bullets, play_button)
 
-run_game()
+# Solo se ejecutará si el archivo se ejecuta directamente como script.
+if __name__ == "__main__":
+    run_game()
