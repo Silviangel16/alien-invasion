@@ -1,12 +1,12 @@
 
 
-# 🚀 Alien Invasion
+# 🎮 Alien Invasion
 
 A fast-paced arcade-style game built with Python where the player defends Earth against waves of invading aliens. This project demonstrates object-oriented programming, game development fundamentals, and event-driven design using Pygame.
 
 ---
 
-## 🎮 Game Overview
+##  Game Overview
 
 In **Alien Invasion**, the player controls a spaceship that can move left and right and shoot bullets at incoming alien fleets. The objective is to destroy all aliens before they reach the bottom of the screen or collide with the ship.
 
@@ -14,7 +14,7 @@ As the game progresses, difficulty increases with faster aliens and more challen
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 * **Python 3**
 * **Pygame**
@@ -22,7 +22,7 @@ As the game progresses, difficulty increases with faster aliens and more challen
 
 ---
 
-## ✨ Features
+##  Features
 
 * Player-controlled spaceship
 * Bullet shooting mechanics
@@ -33,7 +33,7 @@ As the game progresses, difficulty increases with faster aliens and more challen
 
 ---
 
-## 🎯 Controls
+##  Controls
 
 | Key           | Action        |
 | ------------- | ------------- |
@@ -90,9 +90,8 @@ python alien_invasion.py
 
 ---
 
-## 📈 Learning Objectives
+##  Project Objectives
 
-This project was created to practice:
 
 * Object-oriented programming in Python
 * Game loops and event handling
@@ -100,20 +99,12 @@ This project was created to practice:
 * Code organization in multiple files
 * Working with external libraries like Pygame
 
----
-
-## 🚧 Future Improvements
-
-* Add sound effects and background music
-* Implement power-ups
-* Add multiple levels or boss fights
-* Improve UI/UX design
 
 ---
 
 ## 👩‍💻 Author
 
-**Silvia Angel Camargo**
+**Silvia k. Angel C.**
 Aspiring Data Scientist 
 
 ---
