@@ -101,11 +101,20 @@ python alien_invasion.py
 
 
 ---
+## ## Acknowledgments
+
+This project is based on the **Alien Invasion** game developed in the book:
+
+> Matthes, E. (2023). *Python Crash Course* (3rd ed.). No Starch Press.
+
+The implementation follows the educational exercises presented in the book and was developed for learning purposes. Minor adaptations or modifications may have been added during the implementation.
 
 ## 👩‍💻 Author
 
-**Silvia k. Angel C.**
-Aspiring Data Scientist 
+**Silvia Angel Camargo.** Aspiring Data Scientist 
+
+This repository is intended to showcase my Python programming practice and learning progress.
+
 
 ---
 
