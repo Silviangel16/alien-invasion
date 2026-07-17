@@ -101,7 +101,7 @@ python alien_invasion.py
 
 
 ---
-## ## Acknowledgments
+## Acknowledgments
 
 This project is based on the **Alien Invasion** game developed in the book:
 
